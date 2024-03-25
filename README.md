@@ -1,6 +1,6 @@
 ## Hello!
 
-I am Jia, I am in my final year of studying Software Engineering at The University Of Auckland. Feel free to connect with me here:
+I am Jia, I'v recently graduated from The University Of Auckland with a Bachelor in Software Engineering. Feel free to connect with me here:
 
 [![Jia Tee](https://img.shields.io/badge/Jia%20Tee-gray?style=flat&logo=linkedin&link=https://www.linkedin.com/in/jia-tee-019217214/)](https://www.linkedin.com/in/jia-tee-019217214/)
 
